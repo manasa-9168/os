@@ -46,22 +46,3 @@ printf("\nAvg. Turn around time=%f",atat);
 }
 
 
-Output:
-Enter no of processes : 4
-Enter burst times:3
-4
-2
-4
-Enter PID:1
-2
-3
-4
-
-PID   BT  WT  TAT
-3     2   0    2
-1     3   2    5
-2     4   5    9
-4     4   9    13
-
-Avg Waiting /time : 4.000000
-Avg Tuen around time : 7.250000
